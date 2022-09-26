@@ -4,22 +4,22 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Null Churn
 
-## Nome do grupo
+## Rappitenderos
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://br.linkedin.com/in/eric-tachdjian-27044b232">Eric Tachdjian</a>
+- <a href="https://www.linkedin.com/in/giovana-lisboa-thome/">Giovana Thomé</a>
+- <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202/">Rodrigo Martins</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Sergio Lucas</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Pedro Munhoz</a>
+- <a href="https://www.linkedin.com/in/beatriz-hirasaki-leite-b2261923a">Beatriz Hirasaki</a> 
+- <a href="https://www.linkedin.com/in/arthur-reis-575532241/">Arthur Reis</a>
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+A Rappi apresentou um problema onde uma quantidade significativa dos seus entregadores davam churn (deixavam a plataforma), então o trabalho do grupo é identificar os possíveis motivos dessa decisão de sair do aplicativo e a partir de uma inteligência artificial supervisionada, utilizando as bibliotecas do python, que ajudariam na classificação de quais entregadores tem uma tendência maior a deixar a plataforma.
 
 ## 📁 Estrutura de pastas
 
