@@ -115,3 +115,9 @@ deve possuir o valor "node app.js".
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://scikit-learn.org/stable/modules/tree.html>
+3. <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html>
+4. <https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html>
+5. <https://pycaret.org/>
+6. <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html>
+7. <
