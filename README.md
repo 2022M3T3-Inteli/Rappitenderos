@@ -7,13 +7,16 @@
 # Null Churn
 
 ## Rappitenderos
+<div align="center">
+<img src="https://i.ibb.co/SB2ptHb/1.png">
+</div>
 
 ## Integrantes: 
 - <a href="https://br.linkedin.com/in/eric-tachdjian-27044b232">Eric Tachdjian</a>
 - <a href="https://www.linkedin.com/in/giovana-lisboa-thome/">Giovana Thomé</a>
 - <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202/">Rodrigo Martins</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Sergio Lucas</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Pedro Munhoz</a>
+- <a href="https://www.linkedin.com/in/sergiobalucas/">Sergio Lucas</a> 
+- <a href="www.linkedin.com/in/pedromunhozsouza">Pedro Munhoz</a>
 - <a href="https://www.linkedin.com/in/beatriz-hirasaki-leite-b2261923a">Beatriz Hirasaki</a> 
 - <a href="https://www.linkedin.com/in/arthur-reis-575532241/">Arthur Reis</a>
 
