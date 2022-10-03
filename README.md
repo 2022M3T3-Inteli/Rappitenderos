@@ -26,7 +26,7 @@ A Rappi apresentou um problema onde uma quantidade significativa dos seus entreg
 
 ## 🚀 Usabilidade
 
-O nosso projeto foi preparado com o objetivo de auxiliar na identificação de entregadores Rappi com maior tendência de deixar a plataforma Rappi, de forma que seja visível para a empresa os principais motivos para essa decisão, utilizando metricas criadas pelo próprio grupo. A observação desses problemas também auxilia no desenvolvimento de soluções para que seja possivel diminuir o churn.
+O nosso projeto foi preparado com o objetivo de auxiliar na identificação de entregadores Rappi com maior tendência de deixar a plataforma Rappi, de forma que seja visível para a empresa os principais motivos para essa decisão, utilizando métricas criadas pelo próprio grupo. A observação desses problemas também auxilia no desenvolvimento de soluções para que seja possível diminuir o churn.
 
 ## 📁 Estrutura de pastas
 
