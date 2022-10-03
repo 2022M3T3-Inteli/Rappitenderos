@@ -4,7 +4,7 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Modelo Preditivo de Churn de Entregadores - Rappi
+# Rappi - Modelo Preditivo Null Churn
 
 ## Rappitenderos
 <div align="center">
@@ -34,11 +34,8 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
   &emsp;| --> outros <br>
   &emsp;| --> Rappitenderos - Documentação sprint 5.pdf <br>
 |--> src<br>
-  &emsp;| agregacoes_e_derivacoes.ipynb <br>
-  &emsp;| descricao_estatistica_basica_dos_dados.ipynb <br>
-  &emsp;| feature_engineering_preparacao_dos_dados.ipynb <br>
-  &emsp;| modelagem.ipynb <br>
-  &emsp;| modelagem_com_hiperparametros.ipynb <br>
+  &emsp;| codigos_desenvolvimento <br>
+  &emsp;| placeholder_modelo_final.txt <br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -47,7 +44,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>outros</b>: Versões antigas da documentação
 
-- <b>src</b>: Nesta página são encontrados os arquivos/códigos construidos no Google Colaboratory.
+- <b>codigos_desenvolvimento</b>: Nesta página são encontrados os arquivos/códigos construidos no Google Colaboratory.
 
 ## 🗃 Histórico de lançamentos
 
