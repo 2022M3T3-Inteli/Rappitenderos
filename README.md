@@ -35,21 +35,30 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
   &emsp;| --> Rappitenderos - Documentação sprint 5.pdf <br>
 |--> src<br>
   &emsp;| codigos_desenvolvimento <br>
-  &emsp;| placeholder_modelo_final.txt <br>
+  &emsp;| deploy <br>
+  &emsp;| manual_do_usuario(CRISP-DM) <br>
+  &emsp;| modelo_final <br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
-
-- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 - <b>outros</b>: Versões antigas da documentação
 
 - <b>codigos_desenvolvimento</b>: Nesta página são encontrados os arquivos/códigos construidos no Google Colaboratory.
 
+- <b>deploy </b>: Nesta página são encontradas as orientações e caminhos no Colab que a Rappi deve seguir para colocar a IA em funcionamento.
+
+- <b>manual_do_usuário</b>: Nesta página do Colab são encontrados todos os passos percorridos durante o desenvolvimento do projeto.
+
+- <b>modelo_final</b>: Nesta página são encontrados os arquivos/códigos que representam a IA desenvolvida.
+
+- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+
 ## 🗃 Histórico de lançamentos
 
 * 1.0 - 06/10/2022
-    *
+    * Versão final
 
 * 0.9 - 23/09/2022
     * Determinação dos hiperparâmetros
