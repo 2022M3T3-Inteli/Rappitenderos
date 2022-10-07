@@ -35,7 +35,7 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
   &emsp;| --> Rappitenderos - Documentação sprint 5.pdf <br>
 |--> src<br>
   &emsp;| codigos_desenvolvimento <br>
-  &emsp;| placeholder_modelo_final.txt <br>
+  &emsp;| modelo_final.txt <br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -49,7 +49,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 ## 🗃 Histórico de lançamentos
 
 * 1.0 - 06/10/2022
-    *
+    * Versão final
 
 * 0.9 - 23/09/2022
     * Determinação dos hiperparâmetros
