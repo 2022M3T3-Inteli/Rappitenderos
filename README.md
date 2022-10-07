@@ -42,11 +42,18 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
-- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
 - <b>outros</b>: Versões antigas da documentação
 
 - <b>codigos_desenvolvimento</b>: Nesta página são encontrados os arquivos/códigos construidos no Google Colaboratory.
+
+- <b>deploy </b>: Nesta página são encontradas as orientações e caminhos no Colab que a Rappi deve seguir para colocar a IA em funcionamento.
+
+- <b>manual_do_usuário</b>: Nesta página do Colab são encontrados todos os passos percorridos durante o desenvolvimento do projeto.
+
+- <b>modelo_final</b>: Nesta página são encontrados os arquivos/códigos que representam a IA desenvolvida.
+
+- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
 
 ## 🗃 Histórico de lançamentos
 
