@@ -35,7 +35,9 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
   &emsp;| --> Rappitenderos - Documentação sprint 5.pdf <br>
 |--> src<br>
   &emsp;| codigos_desenvolvimento <br>
-  &emsp;| modelo_final.txt <br>
+  &emsp;| deploy <br>
+  &emsp;| manual_do_usuario(CRISP-DM) <br>
+  &emsp;| modelo_final <br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
