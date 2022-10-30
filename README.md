@@ -7,16 +7,13 @@
 # Rappi - Modelo Preditivo Null Churn
 
 ## Rappitenderos
-<div align="center">
-<img src="https://i.ibb.co/SB2ptHb/1.png">
-</div>
 
 ## Integrantes: 
 - <a href="https://br.linkedin.com/in/eric-tachdjian-27044b232">Eric Tachdjian</a>
 - <a href="https://www.linkedin.com/in/giovana-lisboa-thome/">Giovana Thomé</a>
 - <a href="https://www.linkedin.com/in/rodrigo-moraes-martins-a81703202/">Rodrigo Martins</a> 
 - <a href="https://www.linkedin.com/in/sergiobalucas/">Sergio Lucas</a> 
-- <a href="www.linkedin.com/in/pedromunhozsouza">Pedro Munhoz</a>
+- <a href="https://www.linkedin.com/in/pedromunhozsouza">Pedro Munhoz</a>
 - <a href="https://www.linkedin.com/in/beatriz-hirasaki-leite-b2261923a">Beatriz Hirasaki</a> 
 - <a href="https://www.linkedin.com/in/arthur-reis-575532241/">Arthur Reis</a>
 
@@ -32,27 +29,28 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| --> Rappitenderos - Documentação sprint 5.pdf <br>
+  &emsp;| T3_G2_V4_5_Predictive_Model_Document.pdf <br>
 |--> src<br>
-  &emsp;| codigos_desenvolvimento <br>
-  &emsp;| deploy <br>
-  &emsp;| manual_do_usuario(CRISP-DM) <br>
-  &emsp;| modelo_final <br>
+  &emsp;| --> outros <br>
+  &emsp;| deploy.ipynb <br>
+  &emsp;| manual_do_usuario.ipynb <br>
+  &emsp;| modelo_final.ipynb <br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
-- <b>outros</b>: Versões antigas da documentação
-
-- <b>codigos_desenvolvimento</b>: Nesta página são encontrados os arquivos/códigos construidos no Google Colaboratory.
-
-- <b>deploy </b>: Nesta página são encontradas as orientações e caminhos no Colab que a Rappi deve seguir para colocar a IA em funcionamento.
-
-- <b>manual_do_usuário</b>: Nesta página do Colab são encontrados todos os passos percorridos durante o desenvolvimento do projeto.
-
-- <b>modelo_final</b>: Nesta página são encontrados os arquivos/códigos que representam a IA desenvolvida.
-
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+
+- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
+
+## 💻 Execução dos projetos
+
+Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
+
+Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
+> Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 
 ## 🗃 Histórico de lançamentos
@@ -83,7 +81,7 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Modelo Preditivo de Churn de Entregadores - Rappi</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Eric Tachdjian, Beatriz Hirasaki, Sergio Lucas, Pedro Munhoz, Giovana Thomé, Rodrigo Martins, Arthur Reis</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="#">Modelo Preditivo de Churn de Entregadores - Rappi</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="#">Inteli, Eric Tachdjian, Beatriz Hirasaki, Sergio Lucas, Pedro Munhoz, Giovana Thomé, Rodrigo Martins, Arthur Reis</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
@@ -95,4 +93,3 @@ Aqui estão as referências usadas no projeto:
 4. <https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html>
 5. <https://pycaret.org/>
 6. <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html>
-7. <
