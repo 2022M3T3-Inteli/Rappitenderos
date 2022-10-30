@@ -30,6 +30,7 @@ O nosso projeto foi preparado com o objetivo de auxiliar na identificação de e
 |--> documentos<br>
   &emsp;| --> outros <br>
   &emsp;| T3_G2_V4_5_Predictive_Model_Document.pdf <br>
+  &emsp;| T3_G2_V4_5_Predictive_Model_Document.docx <br>
 |--> src<br>
   &emsp;| --> outros <br>
   &emsp;| deploy.ipynb <br>
